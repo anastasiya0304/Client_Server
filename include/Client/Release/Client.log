@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\nick\documents\work\anastasia serebryakova\cloudproject\client\ClientConfig.h(24): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(66): warning C4244: инициализация: преобразование "std::streamoff" в "unsigned long", возможна потеря данных
+  md5.cpp
+  utils.cpp
+  Создание кода
+  15 of 843 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Client.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Release\Client.exe
+  Client.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Release\Client.pdb (Full PDB)
