@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\nick\documents\work\anastasia serebryakova\cloudproject\server\ClientConfig.h(24): warning C4018: <: несоответствие типов со знаком и без знака
+main.cpp(38): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+main.cpp(44): warning C4244: аргумент: преобразование "unsigned __int64" в "unsigned long", возможна потеря данных
+  Создание кода
+  3 of 1349 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Server.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Release\Server.exe
+  Server.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Release\Server.pdb (Full PDB)
