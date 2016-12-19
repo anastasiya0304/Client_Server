@@ -1,0 +1,3 @@
+﻿  client.cpp
+c:\users\nick\documents\work\anastasia serebryakova\cloudproject\webdav\client.cpp(363): warning C4244: инициализация: преобразование "std::streamoff" в "std::size_t", возможна потеря данных
+  WebDav.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Debug\WebDav.lib

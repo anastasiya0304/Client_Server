@@ -1,0 +1,15 @@
+﻿  callback.cpp
+callback.cpp(46): warning C4244: return: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+callback.cpp(55): warning C4244: аргумент: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+callback.cpp(57): warning C4244: return: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+callback.cpp(77): warning C4244: аргумент: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+callback.cpp(79): warning C4244: return: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+callback.cpp(90): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+callback.cpp(91): warning C4244: аргумент: преобразование "unsigned __int64" в "std::size_t", возможна потеря данных
+  client.cpp
+client.cpp(363): warning C4244: инициализация: преобразование "std::streamoff" в "std::size_t", возможна потеря данных
+  fsinfo.cpp
+  header.cpp
+  request.cpp
+  urn.cpp
+  WebDav.vcxproj -> C:\Users\Nick\Documents\work\Anastasia Serebryakova\CloudProject\Release\WebDav.lib
